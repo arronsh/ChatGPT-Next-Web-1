@@ -3,7 +3,7 @@ import { BuiltinMask } from "./typing";
 export const CN_MASKS: BuiltinMask[] = [
   {
 	"avatar": "gpt-bot",
-	"name": "销售分析",
+	"name": "极数启示",
 	"context": [{
 		"role": "user",
 		"content": "专业做运营分析公司的新媒体销售和电商销售的人都是从事什么岗位？",
@@ -36,7 +36,7 @@ export const CN_MASKS: BuiltinMask[] = [
 }, 
 {
 	"avatar": "gpt-bot",
-	"name": "写作大师",
+	"name": "瞬文",
 	"context": [{
 		"role": "user",
 		"content": "1.\t我给你二篇公文，每篇公文===隔开以纯文本版本发送给你。请你告诉我这2篇公文是什么？等你回答问题后，我再给你提要求。听懂了，回答“知道了。",
